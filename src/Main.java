@@ -9,5 +9,7 @@ public class Main {
         System.out.println("work.......");
 
         System.out.println("改代码，试git pull命令");
+
+        System.out.println("试试git fetch命令");
     }
 }
