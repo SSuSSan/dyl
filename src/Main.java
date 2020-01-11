@@ -9,5 +9,7 @@ public class Main {
         System.out.println("work.......");
 
         System.out.println("改代码，试git pull命令");
+
+        System.out.println("创建分支lcf,试试是当前分支当前版本的副本吗？");
     }
 }
