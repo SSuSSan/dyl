@@ -12,5 +12,7 @@ public class Main {
 
         System.out.println("创建分支lcf,试试是当前分支当前版本的副本吗？");
         System.out.println("提交，应该是绑定了，然后就可以省略了");
+
+        System.out.println("妈的，到底是啥样啊");
     }
 }
