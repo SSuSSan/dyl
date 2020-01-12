@@ -26,5 +26,7 @@ public class Main {
         System.out.println("又他妈的白弄，好气人啊 + ");
         System.out.println("又他妈的白弄，好气人啊 + ");
         System.out.println("又他妈的白弄，好气人啊 + ");
+
+        System.out.println("不能用，这次看看能用了吗？");
     }
 }
