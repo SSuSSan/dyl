@@ -18,8 +18,13 @@ public class Main {
         System.out.println("创建分支ljl G盘改的行");
 
         System.out.println("G盘新加的行，，，，改的行！！！");
-        System.out.println("真他妈的费劲啊，淡定，是无能者的表现。这是新加的一行");
-        System.out.println("真他妈的费劲啊，淡定，是无能者的表现。这是新加的一行");
-        System.out.println("真他妈的费劲啊，淡定，是无能者的表现。这是新加的一行");
+        System.out.println("真他妈的费劲啊，淡定，是无能者的表现。这是新加的一行   改");
+        System.out.println("真他妈的费劲啊，淡定，是无能者的表现。这是新加的一行   改");
+        System.out.println("真他妈的费劲啊，淡定，是无能者的表现。这是新加的一行   改");
+
+        System.out.println("又他妈的白弄，好气人啊，+");
+        System.out.println("又他妈的白弄，好气人啊 + ");
+        System.out.println("又他妈的白弄，好气人啊 + ");
+        System.out.println("又他妈的白弄，好气人啊 + ");
     }
 }
