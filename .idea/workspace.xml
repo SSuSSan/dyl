@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9898bbfd-94f5-46c1-8207-3f35889b5f00" name="Default" comment="" />
+    <list default="true" id="9898bbfd-94f5-46c1-8207-3f35889b5f00" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,11 +15,61 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="300">
+              <caret line="12" column="34" lean-forward="true" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ComparableTimSort.java" pinned="false" current-in-tab="true">
+        <entry file="jar://D:/lib/src.zip!/java.base/java/util/ComparableTimSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="258">
+              <caret line="251" column="26" lean-forward="true" selection-start-line="251" selection-start-column="26" selection-end-line="251" selection-end-column="26" />
+              <folding>
+                <element signature="docComment;class#ComparableTimSort#0" />
+                <element signature="docComment;field#MIN_MERGE#0;class#ComparableTimSort#0" />
+                <element signature="docComment;field#a#0;class#ComparableTimSort#0" />
+                <element signature="docComment;field#MIN_GALLOP#0;class#ComparableTimSort#0" />
+                <element signature="docComment;field#minGallop#0;class#ComparableTimSort#0" />
+                <element signature="docComment;field#INITIAL_TMP_STORAGE_LENGTH#0;class#ComparableTimSort#0" />
+                <element signature="docComment;field#tmp#0;class#ComparableTimSort#0" />
+                <element signature="docComment;field#stackSize#0;class#ComparableTimSort#0" />
+                <element signature="docComment;method#ComparableTimSort#0;class#ComparableTimSort#0" />
+                <element signature="method#ComparableTimSort#0;class#ComparableTimSort#0" />
+                <element signature="docComment;method#sort#0;class#ComparableTimSort#0" />
+                <element signature="docComment;method#binarySort#0;class#ComparableTimSort#0" />
+                <element signature="e#9037#9096#0" expanded="true" />
+                <element signature="docComment;method#countRunAndMakeAscending#0;class#ComparableTimSort#0" />
+                <element signature="method#countRunAndMakeAscending#0;class#ComparableTimSort#0" />
+                <element signature="docComment;method#reverseRange#0;class#ComparableTimSort#0" />
+                <element signature="method#reverseRange#0;class#ComparableTimSort#0" />
+                <element signature="docComment;method#minRunLength#0;class#ComparableTimSort#0" />
+                <element signature="method#minRunLength#0;class#ComparableTimSort#0" />
+                <element signature="docComment;method#pushRun#0;class#ComparableTimSort#0" />
+                <element signature="method#pushRun#0;class#ComparableTimSort#0" />
+                <element signature="docComment;method#mergeCollapse#0;class#ComparableTimSort#0" />
+                <element signature="method#mergeCollapse#0;class#ComparableTimSort#0" />
+                <element signature="docComment;method#mergeForceCollapse#0;class#ComparableTimSort#0" />
+                <element signature="method#mergeForceCollapse#0;class#ComparableTimSort#0" />
+                <element signature="docComment;method#mergeAt#0;class#ComparableTimSort#0" />
+                <element signature="method#mergeAt#0;class#ComparableTimSort#0" />
+                <element signature="docComment;method#gallopLeft#0;class#ComparableTimSort#0" />
+                <element signature="method#gallopLeft#0;class#ComparableTimSort#0" />
+                <element signature="e#19430#19454#0" />
+                <element signature="docComment;method#gallopRight#0;class#ComparableTimSort#0" />
+                <element signature="method#gallopRight#0;class#ComparableTimSort#0" />
+                <element signature="e#22221#22242#0" />
+                <element signature="docComment;method#mergeLo#0;class#ComparableTimSort#0" />
+                <element signature="method#mergeLo#0;class#ComparableTimSort#0" />
+                <element signature="docComment;method#mergeHi#0;class#ComparableTimSort#0" />
+                <element signature="method#mergeHi#0;class#ComparableTimSort#0" />
+                <element signature="docComment;method#ensureCapacity#0;class#ComparableTimSort#0" />
+                <element signature="method#ensureCapacity#0;class#ComparableTimSort#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -24,8 +77,8 @@
       <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="490">
-              <caret line="564" column="10" selection-start-line="564" selection-start-column="10" selection-end-line="564" selection-end-column="10" />
+            <state relative-caret-position="13650">
+              <caret line="635" column="12" selection-start-line="635" selection-start-column="12" selection-end-line="635" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -47,8 +100,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
       </list>
     </option>
   </component>
@@ -72,8 +125,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -84,7 +137,7 @@
             <path>
               <item name="dyl" type="b2602c69:ProjectViewProjectNode" />
               <item name="dyl" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -132,11 +185,12 @@
       <workItem from="1578653450936" duration="1046000" />
       <workItem from="1578711715319" duration="602000" />
       <workItem from="1578747866671" duration="1084000" />
+      <workItem from="1580865181891" duration="1753000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4771000" />
+    <option name="totallyTimeSpent" value="7119000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -150,46 +204,25 @@
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="4" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32956153" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25670242" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2600536" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="3" />
       <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info id="Designer" order="3" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25670242" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Capture Tool" order="3" />
-      <window_info id="UI Designer" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" id="Palette&#9;" order="4" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32956153" />
-      <window_info anchor="right" id="Maven Projects" order="4" />
-      <window_info id="Favorites" order="3" side_tool="true" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -204,13 +237,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="242" column="8" selection-start-line="242" selection-start-column="8" selection-end-line="242" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
@@ -549,15 +575,63 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="490">
-          <caret line="564" column="10" selection-start-line="564" selection-start-column="10" selection-end-line="564" selection-end-column="10" />
+        <state relative-caret-position="13650">
+          <caret line="635" column="12" selection-start-line="635" selection-start-column="12" selection-end-line="635" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="300">
+          <caret line="12" column="34" lean-forward="true" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/lib/src.zip!/java.base/java/util/ComparableTimSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="251" column="26" lean-forward="true" selection-start-line="251" selection-start-column="26" selection-end-line="251" selection-end-column="26" />
+          <folding>
+            <element signature="docComment;class#ComparableTimSort#0" />
+            <element signature="docComment;field#MIN_MERGE#0;class#ComparableTimSort#0" />
+            <element signature="docComment;field#a#0;class#ComparableTimSort#0" />
+            <element signature="docComment;field#MIN_GALLOP#0;class#ComparableTimSort#0" />
+            <element signature="docComment;field#minGallop#0;class#ComparableTimSort#0" />
+            <element signature="docComment;field#INITIAL_TMP_STORAGE_LENGTH#0;class#ComparableTimSort#0" />
+            <element signature="docComment;field#tmp#0;class#ComparableTimSort#0" />
+            <element signature="docComment;field#stackSize#0;class#ComparableTimSort#0" />
+            <element signature="docComment;method#ComparableTimSort#0;class#ComparableTimSort#0" />
+            <element signature="method#ComparableTimSort#0;class#ComparableTimSort#0" />
+            <element signature="docComment;method#sort#0;class#ComparableTimSort#0" />
+            <element signature="docComment;method#binarySort#0;class#ComparableTimSort#0" />
+            <element signature="e#9037#9096#0" expanded="true" />
+            <element signature="docComment;method#countRunAndMakeAscending#0;class#ComparableTimSort#0" />
+            <element signature="method#countRunAndMakeAscending#0;class#ComparableTimSort#0" />
+            <element signature="docComment;method#reverseRange#0;class#ComparableTimSort#0" />
+            <element signature="method#reverseRange#0;class#ComparableTimSort#0" />
+            <element signature="docComment;method#minRunLength#0;class#ComparableTimSort#0" />
+            <element signature="method#minRunLength#0;class#ComparableTimSort#0" />
+            <element signature="docComment;method#pushRun#0;class#ComparableTimSort#0" />
+            <element signature="method#pushRun#0;class#ComparableTimSort#0" />
+            <element signature="docComment;method#mergeCollapse#0;class#ComparableTimSort#0" />
+            <element signature="method#mergeCollapse#0;class#ComparableTimSort#0" />
+            <element signature="docComment;method#mergeForceCollapse#0;class#ComparableTimSort#0" />
+            <element signature="method#mergeForceCollapse#0;class#ComparableTimSort#0" />
+            <element signature="docComment;method#mergeAt#0;class#ComparableTimSort#0" />
+            <element signature="method#mergeAt#0;class#ComparableTimSort#0" />
+            <element signature="docComment;method#gallopLeft#0;class#ComparableTimSort#0" />
+            <element signature="method#gallopLeft#0;class#ComparableTimSort#0" />
+            <element signature="e#19430#19454#0" />
+            <element signature="docComment;method#gallopRight#0;class#ComparableTimSort#0" />
+            <element signature="method#gallopRight#0;class#ComparableTimSort#0" />
+            <element signature="e#22221#22242#0" />
+            <element signature="docComment;method#mergeLo#0;class#ComparableTimSort#0" />
+            <element signature="method#mergeLo#0;class#ComparableTimSort#0" />
+            <element signature="docComment;method#mergeHi#0;class#ComparableTimSort#0" />
+            <element signature="method#mergeHi#0;class#ComparableTimSort#0" />
+            <element signature="docComment;method#ensureCapacity#0;class#ComparableTimSort#0" />
+            <element signature="method#ensureCapacity#0;class#ComparableTimSort#0" />
+          </folding>
         </state>
       </provider>
     </entry>
